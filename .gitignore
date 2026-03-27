@@ -70,6 +70,9 @@ crashlytics-build.properties
 # JetBrains Rider
 .idea/
 
+# Unity upgrade logs
+UpgradeLog.htm
+
 # OS generated files
 .DS_Store
 .DS_Store?
